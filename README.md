@@ -2,6 +2,10 @@
 
 I'm a passionate self-taught developer from Kharkiv, currently residing in Warsaw. Since the age of 10, I've been immersed in the world of programming, and now, at 19, I'm seeking a Backend Developer position to further my career. My journey has equipped me with a diverse skill set and a clear vision for the future.
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ## 🚀 Skills and Technologies
 
 - **Languages:** Java, Python, JavaScript, TypeScript, SQL, C#, C++, PHP, HTML, CSS
@@ -12,6 +16,11 @@ I'm a passionate self-taught developer from Kharkiv, currently residing in Warsa
 - **Game Development:** Unity3D, Unreal Engine
 - **Design and Prototyping:** Blender, CAD, 3D Printing, Figma, Photoshop
 - **Hardware:** Arduino, Electronics, Soldering, Wireless
+
+![Denys's GitHub stats](https://github-readme-stats.vercel.app/api?username=devnsko&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnsko&layout=compact&theme=radical)
+![Spotify](https://novatorem.devnsko.vercel.app/api/spotify)
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=devnsko.devnsko)
 
 ## 🎯 Current Focus
 
@@ -59,9 +68,9 @@ Here are some of the projects I've worked on, categorized by technology:
 
 ## 📫 How to Reach Me
 
-- **Telegram:** [@devnsko](https://t.me/devnsko)
-- **Instagram:** [dev.nsko](https://www.instagram.com/dev.nsko)
-- **Support My Work:** [Buy Me a Coffee](https://buymeacoffee.com/devnsko)
+- **Telegram:** [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/devnsko)
+- **Instagram:** [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev.nsko)
+- **Support My Work:** [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/devnsko)
 
 ## 🌟 Fun Fact
 
