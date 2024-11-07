@@ -2,6 +2,10 @@
 
 I'm a passionate self-taught developer from Kharkiv, currently residing in Warsaw. Since the age of 10, I've been immersed in the world of programming, and now, at 19, I'm seeking a Backend Developer position to further my career. My journey has equipped me with a diverse skill set and a clear vision for the future.
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ## 🚀 Skills and Technologies
 
 - **Languages:** Java, Python, JavaScript, TypeScript, SQL, C#, C++, PHP, HTML, CSS
@@ -32,14 +36,14 @@ Beyond programming, I'm expanding my knowledge in Biology, Chemistry, and Physic
 
 Here are some of the projects I've worked on, categorized by technology:
 
-### JavaScript/TypeScript ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### JavaScript/TypeScript
 
 - **[Lunapp Client](https://github.com/devnsko/lunapp-client):** A TypeScript-based client application.
 - **[Lunapp Server](https://github.com/devnsko/lunapp-server):** The server-side counterpart of Lunapp, built with TypeScript.
 - **[QRCode Reader Chrome Extension](https://github.com/devnsko/qrcode-reader-chrome-extension):** A Chrome extension for reading QR codes. :contentReference[oaicite:5]{index=5}
 - **[MERN Blog Frontend](https://github.com/devnsko/mern-blog-frontend):** A forked project focusing on the frontend of a MERN stack blog application.
 
-### Python ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Python
 
 - **[AI Bee](https://github.com/devnsko/ai-bee):** A Telegram bot powered by AI to assist users with various tasks.
 - **[FlowerMarket](https://github.com/devnsko/FlowerMarket):** An online flower shop project developed in **Python** using the Aiogram library, featuring an admin panel and payment functionality.
@@ -47,15 +51,15 @@ Here are some of the projects I've worked on, categorized by technology:
 - **[CodeCounter](https://github.com/devnsko/CodeCounter):** A lightweight Python script that scans directories for source code files, counts lines of code (ignoring blank lines), and displays a comprehensive summary in the console. :contentReference[oaicite:1]{index=1}
 - **[Auto-Click](https://github.com/devnsko/auto-click):** A script developed during my game design internship to automate the launch of a work-related program, streamlining the workflow. :contentReference[oaicite:6]{index=6}
 
-### Java ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+### Java
 
 - **[Java Projects](https://github.com/devnsko/java-projects):** (I will public it soon👀)
 
-### C++ and Arduino 
+### C++ and Arduino
 
 - **[Arduino Glove Air Mouse](https://github.com/devnsko/Arduino-Glove-Air-Mouse):** A project involving an Arduino-based glove that functions as an air mouse. 
 
-### PHP 
+### PHP
 
 - **[PHP Social Network](https://github.com/TestRoomUA/social-network):** A Simple Web-based Social Network Developed in PHP.
 
@@ -66,17 +70,10 @@ Here are some of the projects I've worked on, categorized by technology:
 
 ## 📫 How to Reach Me
 
-<p align="center">
-  <a href="https://t.me/devnsko">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://www.instagram.com/dev.nsko">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://buymeacoffee.com/devnsko">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
-  </a>
-</p>
+- **Telegram:** [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/devnsko)
+- **Instagram:** [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev.nsko)
+- **Support My Work:** [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/devnsko)
+
 ## 🌟 Fun Fact
 
 I'm an expert in coding and dropping databases while brewing the perfect cup of tea. ☕
