@@ -17,10 +17,12 @@ I'm a passionate self-taught developer from Kharkiv, currently residing in Warsa
 - **Design and Prototyping:** Blender, CAD, 3D Printing, Figma, Photoshop
 - **Hardware:** Arduino, Electronics, Soldering, Wireless
 
-![Denys's GitHub stats](https://github-readme-stats.vercel.app/api?username=devnsko&show_icons=true&theme=radical)
+<!-- ![Denys's GitHub stats](https://github-readme-stats.vercel.app/api?username=devnsko&show_icons=true&theme=radical) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnsko&layout=compact&theme=radical)
+<!--
 ![Spotify](https://novatorem.devnsko.vercel.app/api/spotify)
 ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=devnsko.devnsko)
+-->
 
 ## 🎯 Current Focus
 
