@@ -1,6 +1,8 @@
 # 👋 Hello, I'm Denys!
 
 ![GitHub Status](https://github-meme-badge-demo-jvnp1uep4-denys-projects-3b39087b.vercel.app/api/badge/devnsko)
+![image](https://github.com/user-attachments/assets/cdc0357c-bf40-4a21-838d-973f5a774b5a)
+
 
 I'm a passionate self-taught developer from Kharkiv, currently residing in Warsaw. Since the age of 10, I've been immersed in the world of programming, and now, at 19, I'm seeking a Backend Developer position to further my career. My journey has equipped me with a diverse skill set and a clear vision for the future.
 
