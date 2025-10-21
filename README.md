@@ -3,6 +3,7 @@
 I'm a passionate self-taught developer from Kharkiv, currently residing in Warsaw. Since the age of 10, I've been immersed in the world of programming, and now, at 19, I'm seeking a Backend Developer position to further my career. My journey has equipped me with a diverse skill set and a clear vision for the future.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
