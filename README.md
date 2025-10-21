@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Denys!
 
-I'm a passionate self-taught developer from Kharkiv, currently residing in Warsaw. Since the age of 10, I've been immersed in the world of programming, and now, at 19, I'm seeking a Backend Developer position to further my career. My journey has equipped me with a diverse skill set and a clear vision for the future.
+I'm a passionate self-taught developer from Kharkiv, Ukraine, currently residing in Wroclaw. Since the age of 10, I've been immersed in the world of programming, and now, at 20, I'm seeking a Backend Developer position to further my career. My journey has equipped me with a diverse skill set and a clear vision for the future.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
