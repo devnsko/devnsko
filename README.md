@@ -1,9 +1,13 @@
 # 👋 Hello, I'm Denys! 
 
 🎓 Biomechanical Engineering student at Wrocław University of Science and Technology (PWr)
+
 💡 Exploring the intersection of neuroscience, engineering, and computer science to advance Brain-Computer Interfaces (BCI) and improve human life quality.
+
 💻 Focused on Java backend development and C++ & electronics experiments, such as building a custom physics-based game engine and prototyping electrical circuits.
+
 🧠 Passionate about using technology to extend human capabilities, restore lost functions, and make innovation truly meaningful for people.
+
 🇺🇦 Born in Kharkiv, driven by purpose and the belief that engineering should serve humanity.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
