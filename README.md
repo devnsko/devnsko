@@ -1,6 +1,10 @@
-# 👋 Hello, I'm Denys!
+# 👋 Hello, I'm Denys! 
 
-I'm a passionate self-taught developer from Kharkiv, Ukraine, currently residing in Wroclaw. Since the age of 10, I've been immersed in the world of programming, and now, at 20, I'm seeking a Backend Developer position to further my career. My journey has equipped me with a diverse skill set and a clear vision for the future.
+🎓 Biomechanical Engineering student at Wrocław University of Science and Technology (PWr)
+💡 Exploring the intersection of neuroscience, engineering, and computer science to advance Brain-Computer Interfaces (BCI) and improve human life quality.
+💻 Focused on Java backend development and C++ & electronics experiments, such as building a custom physics-based game engine and prototyping electrical circuits.
+🧠 Passionate about using technology to extend human capabilities, restore lost functions, and make innovation truly meaningful for people.
+🇺🇦 Born in Kharkiv, driven by purpose and the belief that engineering should serve humanity.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
@@ -9,11 +13,11 @@ I'm a passionate self-taught developer from Kharkiv, Ukraine, currently residing
 
 ## 🚀 Skills and Technologies
 
-- **Languages:** Java, Python, JavaScript, TypeScript, SQL, C#, C++, PHP, HTML, CSS
+- **Languages:** Java, C++, Python, JavaScript, TypeScript, SQL, C#, PHP, HTML, CSS
 - **Databases:** PostgreSQL, MongoDB, Redis
 - **Cloud Platforms:** Google Cloud Platform (GCP), Amazon Web Services (AWS)
 - **DevOps:** Docker, GitHub Actions
-- **Frameworks and Libraries:** Node.js, FastAPI, Express, React, Next.js, Aiogram
+- **Frameworks and Libraries:** Spring, SDL, Node.js, FastAPI, Express, React, Next.js, Aiogram
 - **Game Development:** Unity3D, Unreal Engine
 - **Design and Prototyping:** Blender, CAD, 3D Printing, Figma, Photoshop
 - **Hardware:** Arduino, Electronics, Soldering, Wireless
@@ -27,11 +31,12 @@ I'm a passionate self-taught developer from Kharkiv, Ukraine, currently residing
 
 ## 🎯 Current Focus
 
-I'm currently delving into Java Spring to enhance my backend development capabilities. My ambition is to study Biomedical Engineering, aiming to integrate technology with human health and well-being.
+My main direction is bridging software, hardware, and human biology, preparing for future work in neuroscience and BCI.
 
 ## 🧠 Learning and Interests
 
-Beyond programming, I'm expanding my knowledge in Biology, Chemistry, and Physics to build a solid foundation for my future endeavors in STEM, particularly in health-related technologies. I'm also learning German to broaden my horizons and embrace new opportunities.
+Beyond programming, I'm expanding my knowledge in Biology, Chemistry, and Physics to build a solid foundation for my future endeavors in STEM, particularly in health-related technologies. 
+I'm also learning German to broaden my horizons and embrace new opportunities.
 
 ## 🌐 Projects
 
@@ -75,9 +80,7 @@ Here are some of the projects I've worked on, categorized by technology:
 - **Instagram:** [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev.nsko)
 - **Support My Work:** [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/devnsko)
 
-## 🌟 Fun Fact
-
-I'm an expert in coding and dropping databases while brewing the perfect cup of tea. ☕
+<!-- ## 🌟 Fun Fact -->
 
 ---
 
