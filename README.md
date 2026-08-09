@@ -9,7 +9,7 @@
 🧠 Passionate about using technology to extend human capabilities, restore lost functions, and make innovation truly meaningful for people.
 
 🇺🇦 Born in Kharkiv, driven by purpose and the belief that engineering should serve humanity.
-
+[![devnsko's GitHub meme badge](http://localhost:3000/api/badges/devnsko)](https://github.com/devnsko)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
