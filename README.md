@@ -8,7 +8,9 @@
 
 🧠 Passionate about using technology to extend human capabilities, restore lost functions, and make innovation truly meaningful for people.
 
-🇺🇦 Born in Kharkiv, driven by purpose and the belief that engineering should serve humanity.
+Born in Kharkiv, driven by purpose and the belief that engineering should serve humanity.
+
+_**My funny service. Give it a [spin](https://badge.devnsko.com) 👇**_
 
 [![devnsko's GitHub meme badge](https://badges.devnsko.com/badges/devnsko/light.svg)](https://badge.devnsko.com)
 
